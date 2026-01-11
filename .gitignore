@@ -9,3 +9,4 @@ data/*.csv
 *.keras
 *.ckpt
 logs/
+notebooks/energy_data/household_power_consumption.txt
